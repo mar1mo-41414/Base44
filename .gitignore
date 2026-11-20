@@ -1,0 +1,6 @@
+/base44
+/test/core_test
+*.o
+__pycache__/
+*.log
+.DS_Store
